@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="NVcI.gif" height="150" />
+  <img src="Dashboard.gif" height="150" />
 </div>
 
 
