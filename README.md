@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Dashboard.gif" height="150" />
+  <img src="Dashboard.gif" height="250" />
 </div>
 
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Manfredi!<br><br>- 🔭 I’m looking for a new position like a Junior Data Analyst.<br>- 📚 I'm currently learning Data Analises - Python, Excel and Power Bi<br>- ⚡️ In my free time I cherish to stroll with my family.</p>
+<p align="left">I'm Manfredi!<br><br>- 🔭 I’m looking for a new position like a Junior Data Analyst.<br>- 📚 I'm currently learning Data Analises - Python, Excel and Power BI<br>- ⚡️ In my free time I cherish to stroll with my family.</p>
 
 ###
 
