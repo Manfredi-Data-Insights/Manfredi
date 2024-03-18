@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://gifer.com/embed/NVcI.gif" width=480 height=360.000 />
-  <img src="https://i.gifer.com/NVcI.gif />
+  <img src="NVcI.gif" height="150" />
 </div>
 
 
